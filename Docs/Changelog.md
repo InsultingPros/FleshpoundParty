@@ -1,5 +1,14 @@
 # FP Party Changelog
 
+## [Version 2.18] - 21.03.2019
+
+- New trader boost function, custom pawn removed!
+- Updated helper class, messaging functions.
+- Moved colors, trader boost value to config file.
+- Added map dependant spawnrate/maxzeds in config.
+- Must kill last 10 zeds much faster (i hope).
+- Traders open on 1st wave.
+
 ## [Version 2.17] - 21.03.2019
 
 ### Added
