@@ -1,6 +1,6 @@
 # Fleshpound Party
 
-![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/FleshpoundParty/total)
+![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/FleshpoundParty/total)
 
 Do you want more juicy FPs at your face? Enjoy 😊.
 
