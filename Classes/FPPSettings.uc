@@ -15,6 +15,7 @@ var config float SineModMultiplier;
 var config float Post6ZedsPerPlayer;  // modifier for zed count (>6 player team)
 
 var config int TraderTime;            // set our desired trader time
+var config float TraderSpeedBoost;    // how much to speed up
 var config int StartingDosh;          // doshhhh
 var config int MinRespawnDosh;        // doshhhh
 
@@ -39,6 +40,7 @@ defaultproperties
   Post6ZedsPerPlayer=0.400000
 
   TraderTime=45
+  TraderSpeedBoost=1.75
   StartingDosh=8000
   MinRespawnDosh=8000
 
